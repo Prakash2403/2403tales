@@ -2,7 +2,7 @@
 author: Prakash Rai
 pubDatetime: 2022-09-22T12:13:24Z
 title: "Python functions on steroids"
-featured: true
+featured: false
 draft: false
 tags:
   - Python

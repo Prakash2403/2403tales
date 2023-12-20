@@ -2,7 +2,7 @@
 author: Prakash Rai
 pubDatetime: 2023-10-22T12:13:24Z
 title: "JS Quirks: Sorting array of numbers"
-featured: true
+featured: false
 draft: false
 tags:
   - JS
