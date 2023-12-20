@@ -49,7 +49,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <ul>
         {
           sortedPosts
-            .filter(({ data }) => !data.featured)
+            // .filter(({ data }) => !data.featured)
             .map(
               ({ data }, index) =>
                 index < 4 && (
