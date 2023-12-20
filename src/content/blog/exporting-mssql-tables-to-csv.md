@@ -36,7 +36,7 @@ USER = "your username here"
 PASS = "your password here"
 # === Sensitive Info ===
 
-conn_str = f"mssql+pymssql://{USER}:{PASS}@{server}/{database}"
+conn_str = f"mssql+pymssql://{USER}:{PASS}@{HOST}:{PORT}/{DB}"
 
 query = "SELECT *  FROM Mytable";
 
